@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "7rEQY9pgJiaWFqqGeX/efLKzeeMkqt7/MR/+rjN07+I=",
+  "Source": "Employees",
+  "BasePath": "_content/Employees",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Employees\\wwwroot",
+      "Source": "Employees",
+      "ContentRoot": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\",
+      "BasePath": "_content/Employees",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\app.js",
+      "SourceId": "Employees",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\",
+      "BasePath": "_content/Employees",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zegmfr516p",
+      "Integrity": "ZbgsfGHkKB2yPCHRjJm2wvel7z51ROzAgZu03wiekpg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\Index.html",
+      "SourceId": "Employees",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\",
+      "BasePath": "_content/Employees",
+      "RelativePath": "Index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7s3bwgjar0",
+      "Integrity": "5/edPxUDJFBRtlnu33NnrUhk3gYvcbbnOVKuB/dOwz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\Style.css",
+      "SourceId": "Employees",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\",
+      "BasePath": "_content/Employees",
+      "RelativePath": "Style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pdi6zwrsxv",
+      "Integrity": "jdUs2xtLc68SxSHrXOzNChqnNEwkp6hdTFyj4lhJOJM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.js",
+      "AssetFile": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZbgsfGHkKB2yPCHRjJm2wvel7z51ROzAgZu03wiekpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 11:57:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZbgsfGHkKB2yPCHRjJm2wvel7z51ROzAgZu03wiekpg="
+        }
+      ]
+    },
+    {
+      "Route": "app.zegmfr516p.js",
+      "AssetFile": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZbgsfGHkKB2yPCHRjJm2wvel7z51ROzAgZu03wiekpg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 11:57:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zegmfr516p"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZbgsfGHkKB2yPCHRjJm2wvel7z51ROzAgZu03wiekpg="
+        }
+      ]
+    },
+    {
+      "Route": "Index.7s3bwgjar0.html",
+      "AssetFile": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5/edPxUDJFBRtlnu33NnrUhk3gYvcbbnOVKuB/dOwz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 11:57:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7s3bwgjar0"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5/edPxUDJFBRtlnu33NnrUhk3gYvcbbnOVKuB/dOwz4="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html",
+      "AssetFile": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5/edPxUDJFBRtlnu33NnrUhk3gYvcbbnOVKuB/dOwz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 11:57:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5/edPxUDJFBRtlnu33NnrUhk3gYvcbbnOVKuB/dOwz4="
+        }
+      ]
+    },
+    {
+      "Route": "Style.css",
+      "AssetFile": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\Style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jdUs2xtLc68SxSHrXOzNChqnNEwkp6hdTFyj4lhJOJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 11:57:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jdUs2xtLc68SxSHrXOzNChqnNEwkp6hdTFyj4lhJOJM="
+        }
+      ]
+    },
+    {
+      "Route": "Style.pdi6zwrsxv.css",
+      "AssetFile": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\Style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jdUs2xtLc68SxSHrXOzNChqnNEwkp6hdTFyj4lhJOJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 10 Dec 2024 11:57:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pdi6zwrsxv"
+        },
+        {
+          "Name": "label",
+          "Value": "Style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jdUs2xtLc68SxSHrXOzNChqnNEwkp6hdTFyj4lhJOJM="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\asp.net webapi\\Employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\controllers\\dependentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\dependentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\domain\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\domain\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\domain\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\domain\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\domain\\regions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\domain\\regions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\domain\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\domain\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\domain\\dependents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\domain\\dependents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\domain\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\domain\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\domain\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\domain\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\data\\employeescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\data\\employeescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\dto\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\dto\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\dto\\depempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\dto\\depempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\model\\dto\\addtitledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\model\\dto\\addtitledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\repository\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\repository\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD02F2DB-1C06-4C6D-B395-04A44DBD6F94}|EmployeeUI\\EmployeeUI.csproj|e:\\asp.net webapi\\employees\\employeeui\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD02F2DB-1C06-4C6D-B395-04A44DBD6F94}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD02F2DB-1C06-4C6D-B395-04A44DBD6F94}|EmployeeUI\\EmployeeUI.csproj|e:\\asp.net webapi\\employees\\employeeui\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD02F2DB-1C06-4C6D-B395-04A44DBD6F94}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD02F2DB-1C06-4C6D-B395-04A44DBD6F94}|EmployeeUI\\EmployeeUI.csproj|e:\\asp.net webapi\\employees\\employeeui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD02F2DB-1C06-4C6D-B395-04A44DBD6F94}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD02F2DB-1C06-4C6D-B395-04A44DBD6F94}|EmployeeUI\\EmployeeUI.csproj|e:\\asp.net webapi\\employees\\employeeui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD02F2DB-1C06-4C6D-B395-04A44DBD6F94}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|e:\\asp.net webapi\\employees\\employees\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B21DAC4-4906-464B-BC64-F74B2187DC21}|Employees\\Employees.csproj|solutionrelative:employees\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:28:55.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "locationController.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\locationController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\locationController.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\locationController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\locationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:12:40.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "departmentController.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\departmentController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\departmentController.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\departmentController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\departmentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T05:49:31.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dependentsController.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\dependentsController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\dependentsController.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\dependentsController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\dependentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:10:09.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jobsController.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\jobsController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\jobsController.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\jobsController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\jobsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:10:48.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "regionsController.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\regionsController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\regionsController.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\regionsController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\regionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:44:28.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Employees\\Controllers\\CountriesController.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Employees\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:08:25.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\appsettings.json",
+              "RelativeDocumentMoniker": "Employees\\appsettings.json",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\appsettings.json",
+              "RelativeToolTip": "Employees\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T09:51:16.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\Program.cs",
+              "RelativeDocumentMoniker": "Employees\\Program.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\Program.cs",
+              "RelativeToolTip": "Employees\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:37:55.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmployeesRepository.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\repository\\IEmployeesRepository.cs",
+              "RelativeDocumentMoniker": "Employees\\repository\\IEmployeesRepository.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\repository\\IEmployeesRepository.cs",
+              "RelativeToolTip": "Employees\\repository\\IEmployeesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:37:23.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employees\\repository\\EmployeeRepository.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employees\\repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:36:11.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "departmentdto.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\DTO\\departmentdto.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\DTO\\departmentdto.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\DTO\\departmentdto.cs",
+              "RelativeToolTip": "Employees\\model\\DTO\\departmentdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:35:44.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "location.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\location.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\domain\\location.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\location.cs",
+              "RelativeToolTip": "Employees\\model\\domain\\location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:43:38.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "countries.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\countries.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\domain\\countries.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\countries.cs",
+              "RelativeToolTip": "Employees\\model\\domain\\countries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:41:58.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "regions.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\regions.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\domain\\regions.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\regions.cs",
+              "RelativeToolTip": "Employees\\model\\domain\\regions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:40:03.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\Departments.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\domain\\Departments.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\Departments.cs",
+              "RelativeToolTip": "Employees\\model\\domain\\Departments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:38:19.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dependents.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\dependents.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\domain\\dependents.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\dependents.cs",
+              "RelativeToolTip": "Employees\\model\\domain\\dependents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:35:11.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "employees.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\employees.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\domain\\employees.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\employees.cs",
+              "RelativeToolTip": "Employees\\model\\domain\\employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:27:23.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jobs.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\jobs.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\domain\\jobs.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\domain\\jobs.cs",
+              "RelativeToolTip": "Employees\\model\\domain\\jobs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:22:44.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Adddepartmentdto.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\DTO\\Adddepartmentdto.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\DTO\\Adddepartmentdto.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\DTO\\Adddepartmentdto.cs",
+              "RelativeToolTip": "Employees\\model\\DTO\\Adddepartmentdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:15:46.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeesContext.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\data\\EmployeesContext.cs",
+              "RelativeDocumentMoniker": "Employees\\data\\EmployeesContext.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\data\\EmployeesContext.cs",
+              "RelativeToolTip": "Employees\\data\\EmployeesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:23:19.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\EmployeeUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\EmployeeUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:37:17.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\EmployeeUI\\Views\\employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\employees\\Index.cshtml",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\EmployeeUI\\Views\\employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T10:36:34.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Employees\\WeatherForecast.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\WeatherForecast.cs",
+              "RelativeToolTip": "Employees\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:17:39.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\EmployeeUI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Program.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\EmployeeUI\\Program.cs",
+              "RelativeToolTip": "EmployeeUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:49:19.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "employeesController.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\EmployeeUI\\Controllers\\employeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Controllers\\employeesController.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\EmployeeUI\\Controllers\\employeesController.cs",
+              "RelativeToolTip": "EmployeeUI\\Controllers\\employeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:38:34.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddTitleDTO.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\DTO\\AddTitleDTO.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\DTO\\AddTitleDTO.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\DTO\\AddTitleDTO.cs",
+              "RelativeToolTip": "Employees\\model\\DTO\\AddTitleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:29:06.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "depempdto.cs",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\model\\DTO\\depempdto.cs",
+              "RelativeDocumentMoniker": "Employees\\model\\DTO\\depempdto.cs",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\model\\DTO\\depempdto.cs",
+              "RelativeToolTip": "Employees\\model\\DTO\\depempdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:36:31.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "app.js",
+              "DocumentMoniker": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "Employees\\wwwroot\\app.js",
+              "ToolTip": "E:\\asp.net webapi\\Employees\\Employees\\wwwroot\\app.js",
+              "RelativeToolTip": "Employees\\wwwroot\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T12:04:51.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
